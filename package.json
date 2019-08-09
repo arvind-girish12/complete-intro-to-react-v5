@@ -1,6 +1,6 @@
 {
   "name": "complete-intro-to-react-v5",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "the Complete Intro to React, v5",
   "main": "src/App.js",
   "dependencies": {
